@@ -1,1 +1,1 @@
-# This is a basic app made in react and tailwind for fetch some gifs based on a keyword
+## This is a basic app made in react and tailwind for fetch some gifs based on a keyword
